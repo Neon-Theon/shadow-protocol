@@ -34,6 +34,5 @@ C = deploy flares
 - Three.js r128 + Canvas HUD  
 - Single self-contained HTML file (no build, no install)
 
-
 **Play the full game instantly** → [index.html](https://github.com/Neon-Theon/shadow-protocol/blob/main/index.html)  
 **Full code** → [GitHub repo](https://github.com/Neon-Theon/shadow-protocol)
