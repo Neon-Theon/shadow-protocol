@@ -21,7 +21,7 @@ F = afterburner | SPACE = fire | C = flares | TAB/1-5 = cycle weapons
 Left stick = pitch & roll  
 LB/RB = yaw  
 Right trigger = accelerate | Left trigger = brake  
-A = fire cannon | X = cycle target | Y = cycle munitions | L3 = deploy flares | D-pad L/R = cycle munitions | D-pad U/D = radar range
+A = fire cannon | X = cycle target | Y = cycle munitions | B = fire munitions | L3 = deploy flares | D-pad L/R = cycle munitions | D-pad U/D = radar range
 
 ## ✨ Features
 - 10-mission escalating campaign (threat levels 8–10)  
