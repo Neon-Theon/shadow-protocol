@@ -22,7 +22,7 @@ Left stick = pitch & roll
 LB/RB = yaw  
 Right trigger = accelerate | Left trigger = brake  
 A = fire cannon | X = cycle target | Y = cycle munitions | L3 = deploy flares
-D-pad L/R = cycle munitions | U/D = radar range
+## D-pad L/R = cycle munitions | U/D = radar range
 
 ## ✨ Features
 - 10-mission escalating campaign (threat levels 8–10)  
