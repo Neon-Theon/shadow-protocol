@@ -9,18 +9,20 @@
 A high-fidelity Three.js cyberpunk stealth fighter experience. Pilot classified military aircraft through 10 above-top-secret missions with dynamic enemies, SAM sites, aircraft unlocks, full HUD, and persistent campaign progression — all in a single browser file.
 
 ## 🎮 How to Play
-1. Click **index.html** above → **Raw** → right-click → **Save As** (or just open directly)  
-2. Double-click the saved file (works offline in any browser)  
+**Full analog controller support** (Xbox, PS5, Steam Deck, flight sticks — all sticks, triggers, and buttons work natively)
 
-**Controls**  
+**Keyboard**  
 WASD / Arrows = pitch & roll  
 Q/E = yaw  
-SHIFT (hold) = accelerate  
-CTRL (hold) = brake  
-F = afterburner toggle  
-SPACE = fire  
-TAB / 1-5 = cycle weapons  
-C = deploy flares  
+SHIFT (hold) = accelerate | CTRL (hold) = brake  
+F = afterburner | SPACE = fire | C = flares | TAB/1-5 = cycle weapons  
+
+**Gamepad**  
+Left stick = pitch & roll  
+LB/RB = yaw  
+Right trigger = accelerate | Left trigger = brake  
+A = fire cannon | X = cycle target | Y = cycle munitions | L3 = deploy flares
+D-pad L/R = cycle munitions | U/D = radar range
 
 ## ✨ Features
 - 10-mission escalating campaign (threat levels 8–10)  
