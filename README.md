@@ -6,7 +6,7 @@
 <img width="1383" height="1111" alt="Screenshot 2026-03-08 230638" src="https://github.com/user-attachments/assets/ff9d557b-c213-4d5c-a244-cb59512b8a2f" />
 
 **Built entirely with Claude AI**  
-A high-fidelity Three.js cyberpunk stealth fighter campaign. Pilot classified military aircraft through 10 above-top-secret missions with dynamic enemies, SAM sites, aircraft unlocks, full HUD, and persistent campaign progression — all in a single browser file.
+A high-fidelity Three.js cyberpunk stealth fighter experience. Pilot classified military aircraft through 10 above-top-secret missions with dynamic enemies, SAM sites, aircraft unlocks, full HUD, and persistent campaign progression — all in a single browser file.
 
 ## 🎮 How to Play
 1. Click **index.html** above → **Raw** → right-click → **Save As** (or just open directly)  
@@ -34,7 +34,6 @@ C = deploy flares
 - Three.js r128 + Canvas HUD  
 - Single self-contained HTML file (no build, no install)
 
-Made as the final capstone of my AI portfolio.
 
 **Play the full game instantly** → [index.html](https://github.com/Neon-Theon/shadow-protocol/blob/main/index.html)  
 **Full code** → [GitHub repo](https://github.com/Neon-Theon/shadow-protocol)
