@@ -6,7 +6,7 @@
 <img width="1383" height="1111" alt="Screenshot 2026-03-08 230638" src="https://github.com/user-attachments/assets/ff9d557b-c213-4d5c-a244-cb59512b8a2f" />
 
 **Built entirely with Claude AI**  
-A high-fidelity Three.js cyberpunk stealth fighter campaign. Pilot the classified YF-23A Black Widow II (PAV-2 "Spider") through 10 above-top-secret missions with dynamic enemies, SAM sites, aircraft unlocks, full HUD, and persistent campaign progression — all in a single browser file.
+A high-fidelity Three.js cyberpunk stealth fighter campaign. Pilot classified military aircraft through 10 above-top-secret missions with dynamic enemies, SAM sites, aircraft unlocks, full HUD, and persistent campaign progression — all in a single browser file.
 
 ## 🎮 How to Play
 1. Click **index.html** above → **Raw** → right-click → **Save As** (or just open directly)  
